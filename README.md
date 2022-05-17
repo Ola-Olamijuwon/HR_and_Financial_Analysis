@@ -1,11 +1,11 @@
 # Palmoria-Group-HR & Financial-Analysis-
 Power BI, Power Query &amp; DAX
 
-Case Study
+## Case Study
 
 The Palmoria Group is a Manufacturing Company based in Nigeria embroiled in a gender and pay inequality media fiasco in its 3 regions. 
 
-Business Task
+## Business Task
 
 •	Perform HR analytics to understand the company’s activities.
 
@@ -15,7 +15,7 @@ Business Task
 
 •	Allocate bonus to employees based on performance rating.
 
-Approach
+## Approach
 
 •	ETL
 
@@ -23,7 +23,7 @@ Approach
 
 •	Visualization
 
-Deliverables
+## Deliverables
 
 •	Gender and pay distribution distilled to regions and department.
 
