@@ -1,4 +1,5 @@
-# Palmoria-Group-HR & Financial-Analysis-
+# Gender_&_Financial_Distribution
+
 ### Power BI, Power Query &amp; DAX
 
 ## Case Study
